@@ -1,0 +1,24 @@
+{
+  "name": "artemis",
+  "version": "1.0.0",
+  "description": "Loja para venda de roupas e produtos de artesanato.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jairmaiag/artemis.git"
+  },
+  "keywords": [
+    "loja",
+    "artesanato",
+    "roupas"
+  ],
+  "author": "Jair Diniz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jairmaiag/artemis/issues"
+  },
+  "homepage": "https://github.com/jairmaiag/artemis#readme"
+}
